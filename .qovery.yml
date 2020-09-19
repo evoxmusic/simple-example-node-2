@@ -6,6 +6,6 @@ application:
 routers:
 - name: main
   routes:
-  - application_name: simple-example-node
+  - application_name: simple-example-node-2
     paths:
     - /
