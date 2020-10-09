@@ -5,9 +5,6 @@ application:
   publicly_accessible: true
 routers:
 - name: main-2
-  custom_domains:
-  - branch: master
-    domain: mynode.qvy.io
   routes:
   - application_name: simple-example-node-2
     paths:
